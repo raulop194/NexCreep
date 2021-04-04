@@ -14,3 +14,4 @@ I don't want nothing in speceifict, the only thing I want you to enjoy all my re
 <br/>
 <img src="./img/tech/py.png" height="50px" width="50px" title="Python"> <img src="./img/tech/arrow.png" height="50px" width="50px"/>
 <img src="./img/tech/pill.png" height="50px" width="50px" title="Pillow" href="https://python-pillow.org/" > <img src="./img/tech/pyqt.png" height="50px" width="50px" title="PyQt" href="https://doc.qt.io/" > <img src="./img/tech/pyga.png" height="50px" width="50px" title="Pygame" href="https://www.pygame.org/news" > <img src="./img/tech/flask.svg" height="50px" width="50px" title="Flask" href="https://flask.palletsprojects.com/en/1.1.x/" >
+<br/>
