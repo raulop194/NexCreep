@@ -10,4 +10,4 @@ I don't want nothing in speceifict, the only thing I want you to enjoy all my re
 
 ### Actually languages I know?
 
-<img src="js.png" style="height: 30px; width: 30px">
+<img src="./img/tech/js.png" height="30px" width="30px">
