@@ -21,4 +21,6 @@ I don't want nothing in speceifict, the only thing I want you to enjoy all my re
 
 ### Future languages/framework/libraries I'm going to learn
 
-<img src="./img/tech/dart.png" height="50px" width="50px" title="Dart"> <img src="./img/tech/arrow.png" height="50px" width="50px"/> <img src="./img/tech/dartflutter.png" height="50px" width="50px" title="Flutter">
+<img src="./img/tech/dart.png" height="50px" width="50px" title="Dart"/> <img src="./img/tech/arrow.png" height="50px" width="50px"/> <img src="./img/tech/dartflutter.png" height="50px" width="50px" title="Flutter">
+<br/>
+<img src="./img/tech/kt.png" height="50px" width="50px" title="Kotlin"/>
