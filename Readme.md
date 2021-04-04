@@ -23,4 +23,4 @@ I don't want nothing in speceifict, the only thing I want you to enjoy all my re
 
 <img src="./img/tech/dart.png" height="50px" width="50px" title="Dart"/> <img src="./img/tech/arrow.png" height="50px" width="50px"/> <img src="./img/tech/dartflutter.png" height="50px" width="50px" title="Flutter">
 <br/>
-<img src="./img/tech/kt.png" height="50px" width="50px" title="Kotlin"/> <img src="./img/tech/java.png" height="50px" width="50px" title="Java"/>
+<img src="./img/tech/kt.png" height="50px" width="50px" title="Kotlin"/> <img src="./img/tech/java.png" height="60px" width="60px" title="Java"/>
