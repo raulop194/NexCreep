@@ -2,7 +2,7 @@
 
 ### First of all im going to presentate my person
 
-Im from Spain, specificly from Madrid. I'm 19 years all I love coding ❤
+Im from Spain, specificly from Madrid. I'm 19 years all & I love coding ❤
 
 ### What I spect from github?
 
