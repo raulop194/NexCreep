@@ -15,9 +15,10 @@ I don't want nothing in specifict, the only thing I want you to enjoy all my rep
 <img src="./img/tech/py.png" height="50px" width="50px" title="Python"> <img src="./img/tech/arrow.png" height="50px" width="50px"/>
 <img src="./img/tech/pill.png" height="50px" width="50px" title="Pillow" href="https://python-pillow.org/" > <img src="./img/tech/pyqt.png" height="50px" width="50px" title="PyQt" href="https://doc.qt.io/" > <img src="./img/tech/pyga.png" height="50px" width="50px" title="Pygame" href="https://www.pygame.org/news"> <img src="https://i.imgur.com/8ciREEh.jpg" height="50px" width="50px" title="Discord.py" href="https://discordpy.readthedocs.io/en/stable/"/> <img src="./img/tech/flask.svg" height="50px" width="50px" title="Flask" href="https://flask.palletsprojects.com/en/1.1.x/"> 
 <br/>
-<img src="./img/tech/java.png" height="60px" width="60px" title="Java"/>
+<img src="./img/tech/java.png" height="50px" width="50px" title="Java"/>
 <img src="./img/tech/cpp.svg" height="50px" width="50px" title="C++"/>
-<img src="./img/tech/cs.png" height="50px" width="60px" title="CSharp"/>
+<img src="./img/tech/cs.png" height="50px" width="50px" title="CSharp"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50px" width="50px"/>
 
 ### Future languages/framework/libraries I'm going to learn
 
