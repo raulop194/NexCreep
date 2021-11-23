@@ -17,8 +17,7 @@ I don't want nothing in specifict, the only thing I want you to enjoy all my rep
 <br/>
 <img src="./img/tech/java.png" height="50px" width="50px" title="Java"/>
 <img src="./img/tech/cpp.svg" height="50px" width="50px" title="C++"/>
-<img src="./img/tech/cs.png" height="50px" width="60px" title="CSharp"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50px" width="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50px" width="50px" tittle="C"/>
 
 ### Future languages/framework/libraries I'm going to learn
 
